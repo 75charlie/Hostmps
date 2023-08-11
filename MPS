@@ -1,0 +1,4 @@
+20.25.135.255 growtopia1.com
+20.25.135.255 growtopia2.com
+20.25.135.255 www.growtopia1.com
+20.25.135.255 www.growtopia2.com
